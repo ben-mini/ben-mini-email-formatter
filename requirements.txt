@@ -1,0 +1,4 @@
+streamlit
+markdown2
+beautifulsoup4
+lxml
