@@ -1,0 +1,11 @@
+[project]
+name = "ben-mini-email-formatter"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.13"
+dependencies = [
+    "beautifulsoup4>=4.13.3",
+    "lxml>=5.3.1",
+    "markdown2>=2.5.3",
+    "streamlit>=1.43.1",
+]
